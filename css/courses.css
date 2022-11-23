@@ -1,0 +1,21 @@
+.courses {
+    margin-top: 7rem;
+}
+
+
+/* Start Media Query */
+
+/* Tablets */
+@media screen and (max-width: 977px) {
+    /* Courses */
+    .courses {
+        margin-top: 8rem;
+    }
+}
+
+/* Mobiles */
+@media screen and (max-width: 477px) {
+    .courses {
+        margin-top: 6rem;
+    }
+}
